@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Luis Fernando 👋
 
-<!--
-**luisfernandoramoschoque8-star/luisfernandoramoschoque8-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en formación apasionado por la tecnología y el código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajando en mis primeros proyectos
+- 🌱 Aprendiendo desarrollo web
+- 💬 Pregúntame sobre lo que estoy aprendiendo
+- 📫 Contacto: tu@email.com
+
+---
+
+*Gracias por visitar mi perfil!*
